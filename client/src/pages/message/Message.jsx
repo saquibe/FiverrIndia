@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Message.scss"
 
-function Message() {
+const Message = () => {
   return (
     <div>Message</div>
   )
